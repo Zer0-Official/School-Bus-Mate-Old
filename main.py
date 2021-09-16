@@ -64,6 +64,17 @@ while True:
         if postsItem == '3':
             postList.clear()
             print('Cleared\n')
+    if menuItem == '5':
+        print('-STATS-\n')
+        print(' 1. Bus Hours\n 2. Miles Ridden\n')
+        statsItem = input('')
+        if statsItem == '1':
+            print('NO BUS HOURS\n')
+        if statsItem == '2':
+            print('NO MILES RIDDEN\n')
+    if menuItem == '6':
+        print('-SETTINGS-\n')
+        print('Settings will be available in next version.\n')
 
 
 
