@@ -68,4 +68,4 @@ while True:
 
 
     if menuItem == 'x':
-        end()
+        exit()
