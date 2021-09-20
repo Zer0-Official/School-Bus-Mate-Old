@@ -1,0 +1,14 @@
+HomeScreen:
+
+    BoxLayout:
+        orientation: 'vertical'
+        size: root.width, root.height
+
+        Label:
+            text: 'Home Screen'
+            font_size: 32
+
+        Button:
+            text: 'Go Back'
+            font_size: 32
+            on_release: app.change_screen('login')
