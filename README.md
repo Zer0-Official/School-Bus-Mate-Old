@@ -4,7 +4,7 @@ Description:
   School Bus Mate is a WIP project. The goal is to make an app to assist bus drivers and riders for school.
   
 Release:
-  The expected release is May 2022 on App Store and Google Play. A future version may be released on Windows.
+  The expected release is May 2022 on App Store and Google Play. The drivers and administartors version may be released on Windows.
 
   
 # 
